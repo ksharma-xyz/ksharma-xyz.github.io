@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "xyz.ksharma.krail",
       "sha256_cert_fingerprints": [
-        "8F:27:26:6A:AD:91:C2:EC:B6:9C:3D:A8:32:71:8A:64:C5:4E:D2:D8:3E:9E:4D:8B:10:95:C4:5B:47:F6:4A:1C"
+        "8F:27:26:6A:AD:91:C2:EC:B6:9C:3D:A8:32:71:8A:64:C5:4E:D2:D8:3E:9E:4D:8B:10:95:C4:5B:47:F6:4A:1C",
+        "16:BF:B7:4B:0D:1E:14:98:FE:89:39:90:15:CD:39:87:9C:F3:BD:6D:9D:16:CA:A4:11:CE:26:F5:30:58:0F:A6"
       ]
     }
   }
