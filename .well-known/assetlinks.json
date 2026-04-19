@@ -11,5 +11,17 @@
         "16:BF:B7:4B:0D:1E:14:98:FE:89:39:90:15:CD:39:87:9C:F3:BD:6D:9D:16:CA:A4:11:CE:26:F5:30:58:0F:A6"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.ksharma.krail.debug",
+      "sha256_cert_fingerprints": [
+        "16:BF:B7:4B:0D:1E:14:98:FE:89:39:90:15:CD:39:87:9C:F3:BD:6D:9D:16:CA:A4:11:CE:26:F5:30:58:0F:A6"
+      ]
+    }
   }
 ]
