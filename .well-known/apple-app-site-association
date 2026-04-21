@@ -1,0 +1,12 @@
+{                                                         
+    "applinks": {
+      "details": [
+        {         
+          "appIDs": ["GQ238A3JSB.xyz.ksharma.krail"],
+          "components": [                            
+            { "/": "/trip*" }                                                                                                      
+          ]                  
+        }                                                                                                                          
+      ]                                                     
+    }                                                                                                                              
+  }
